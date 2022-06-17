@@ -14,10 +14,11 @@
 <body>
     <div class="header">PROJECT</div>
     <div class="bann"></div>
+    <div class="text">Vous pouvez trouver ci-dessous mes projets réalisés dans leur entièreté ainsi que le lien vers ceux-ci.</div>
     <h1>Premier Project</h1>
     <div class="grid-container">
-        <div class="maquette">maquette</div>
-        <div class="site">site</div>
+        <div class="maquette"></div>
+        <a href="site.php"><div class="site"></div></a>
         <div class="github"><i class="fa-brands fa-github"></i></div>
     </div>
 
